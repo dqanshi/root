@@ -6,8 +6,6 @@
 </centre>
 
 # Support
-[![Watch the video](https://img.youtube.com/vi/LAJfrWPm4NU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LAJfrWPm4NU)
-> hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mridealhatofficial.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/channel/UCvAp_a_UY_TnAIZlpX8UmMg">"Adarsh Addee Vlogs"</a> on YouTube and subscribe for my vlog videos. 
 
 # Fake Root Privileges
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
@@ -18,7 +16,7 @@ This tool also helps to access the real root privileges in termux. Which is more
 # Installation
 <pre>apt-get update && apt-get upgrade -y</pre>
 <pre>apt-get install git -y</pre>
-<pre>git clone https://github.com/adarshaddee/root.git</pre>
+<pre>git clone https://github.com/dqanshi/root.git</pre>
 <pre>cd root</pre>
 <pre>chmod +x main</pre>
 <pre>./main</pre>
@@ -27,7 +25,7 @@ This tool also helps to access the real root privileges in termux. Which is more
 You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 
 # One line Installation
-<pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.com/adarshaddee/root.git</pre>
+<pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.com/dqanshi/root.git</pre>
 
 # Copyright
 <pre>© Copyright credits goes to Adarsh Addee. This tool is public tool anyone can use this tool.</pre>
